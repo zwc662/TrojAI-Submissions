@@ -1,0 +1,12 @@
+{
+	"objective": "reg:logistic",
+	"gamma": 2.0,
+	"num_data_per_model": 50,
+	"train_ICA_features": 200,
+	"train_input_features": 270,
+	"train_data_augmentation": 1,
+	"train_weight_table_random_state": 101,
+	"train_weight_table_params_mean": 0.5,
+	"train_weight_table_params_std": 0.03,
+	"train_weight_table_params_scaler": 1.8
+}
